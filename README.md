@@ -2,6 +2,10 @@
 
 This project utilizes transfer learning to develop a model for identifying dog breeds from images.
 
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*ccFehEpblmQKQtb4eRfesw.jpeg" alt="Lane Detection Example" width="500"/>
+</p>
+
 **Project Phases:**
 
 1. **Project Initialization and Planning:**
