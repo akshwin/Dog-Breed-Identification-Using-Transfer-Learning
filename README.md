@@ -1,6 +1,6 @@
 ## Dog Breed Identification Using Transfer Learning
 
-This project utilizes transfer learning to develop a model for identifying dog breeds from images.
+  * This project utilizes transfer learning to develop a model for identifying dog breeds from images.
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*ccFehEpblmQKQtb4eRfesw.jpeg" alt="Lane Detection Example" width="500"/>
@@ -12,7 +12,7 @@ This project utilizes transfer learning to develop a model for identifying dog b
     * Define Problem Statements
     * Initial Project Planning Report
     * Project Proposal (Proposed Solution)
-    * 
+      
 2. **Data Collection and Preprocessing:**
     * Data Collection Plan & Raw data source Identification Report
     * Data Preprocessing Report
@@ -33,5 +33,6 @@ This project utilizes transfer learning to develop a model for identifying dog b
     * german-shepherd6.jpg (image file used for testing)
       
 6. **Documentation & Demonstration:**
-    * Project Documentation.docx (comprehensive explanation of the project)
+    * Project Documentation (comprehensive explanation of the project)
+    * Demonstration video 
 
